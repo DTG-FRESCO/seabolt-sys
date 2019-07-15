@@ -1,0 +1,10 @@
+[package]
+name = "seabolt-sys"
+version = "0.1.0"
+authors = ["Thomas Bytheway <tb403@cam.ac.uk>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.50.0"
